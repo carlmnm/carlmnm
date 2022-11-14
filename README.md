@@ -31,8 +31,8 @@
 </p>
 
 <p>
-  🔗 Do you want to contact me? So send me an <a href="mailto:carlossmiguell3@gmail.com">e-mail</a>!
-</p><br/>
+  🔗 Do you want to contact me? So send me an <a href="mailto:carlossmiguell3@gmail.com">e-mail</a>!<br/><img width="190" src="https://user-images.githubusercontent.com/62156288/201557954-99630b55-e9fe-47eb-b5ab-412af52cf810.gif"/>
+</p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
