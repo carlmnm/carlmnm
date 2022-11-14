@@ -22,6 +22,18 @@
   
 </p>
 
+<p>‎ </p>
+
+<p>
+  👨‍💻 I'm <bold>Carlos Miguel</bold>. 22 years old and a lover of code and 🍺.<br/>
+  💼 I live in <a href="https://goo.gl/maps/kbxcTMSDj1hfughW7">Campina Grande</a>, Brasil.<br/>
+  📷 Photographer in free time
+</p>
+
+<p>
+  🔗 Do you want to contact me? So send me an <a href="mailto:carlossmiguell3@gmail.com">e-mail</a>!
+</p><br/>
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <!--
