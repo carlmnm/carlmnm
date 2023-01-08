@@ -27,12 +27,15 @@
 
 <p>
   👨‍💻 I'm <bold>Carlos Miguel</bold>. 22 years old and a lover of code and 🍺.<br/>
+  💻 Full stack web developer.</br>
   💼 I live in <a href="https://goo.gl/maps/kbxcTMSDj1hfughW7">Campina Grande</a>, Brasil.<br/>
-  📷 Photographer in free time
+  📷 Photographer in free time.
 </p>
 
 <p>
-  🔗 Do you want to contact me? So send me an <a href="mailto:carlossmiguell3@gmail.com">e-mail</a>!<br/><img width="190" src="https://user-images.githubusercontent.com/62156288/201557954-99630b55-e9fe-47eb-b5ab-412af52cf810.gif"/>
+  🔗 Do you want to contact me? So send me an <a href="mailto:carlossmiguell3@gmail.com">e-mail</a>!✨<br/>
+  ⚡ You can also reach me on <a href="http://www.linkedin.com/in/carlossmiguel">linkedin</a><br/>
+  <img width="190" src="https://user-images.githubusercontent.com/62156288/201557954-99630b55-e9fe-47eb-b5ab-412af52cf810.gif"/>
 </p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
