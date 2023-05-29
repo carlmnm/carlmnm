@@ -38,7 +38,6 @@
   <img width="190" src="https://user-images.githubusercontent.com/62156288/201557954-99630b55-e9fe-47eb-b5ab-412af52cf810.gif"/>
 </p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
 
 <!--
 **carlmnm/carlmnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
